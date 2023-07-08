@@ -13,4 +13,5 @@ using numpy to augment the images, made it suitable for all dtypes.
 
 View.py - used to view either a specific band or all the bands of the image.
 
-
+# SV HSI (band 100) original
+![Band_SV_3_200](https://github.com/anusha-adhikari/HSI_aug/assets/74814765/1c109bd0-573d-4fcf-9f5d-011ac8df4b56)
